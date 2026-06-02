@@ -1380,13 +1380,14 @@ Register accounts on Online Judges:
 
 - Practice Problems:
 
-  |       OJ       |                             Name                              |                  Categories                   |
-  | :------------: | :-----------------------------------------------------------: | :-------------------------------------------: |
-  |    **CSES**    |   [Teleporters Path](https://cses.fi/problemset/task/1693/)   |                _Euler Circuit_                |
-  |    **VNOJ**    |         [pcycle](https://oj.vnoi.info/problem/pcycle)         |                _Euler Circuit_                |
-  |    **VNOJ**    |           [draw](https://oj.vnoi.info/problem/draw)           |                _Euler Circuit_                |
-  |    **CSES**    |    [Distinct Color](https://cses.fi/problemset/task/1139)     | _Euler Tour, Data Structures, Small-To-Large_ |
-  | **Codeforces** | [Lomsat gelral](https://codeforces.com/contest/600/problem/E) |               _Small-To-Large_                |
+  |       OJ       |                             Name                                  |                  Categories                   |
+  | :------------: | :----------------------------------------------------------------:| :-------------------------------------------: |
+  |    **CSES**    |   [Teleporters Path](https://cses.fi/problemset/task/1693/)       |                _Euler Circuit_                |
+  |    **VNOJ**    |         [pcycle](https://oj.vnoi.info/problem/pcycle)             |                _Euler Circuit_                |
+  |    **VNOJ**    |           [draw](https://oj.vnoi.info/problem/draw)               |                _Euler Circuit_                |
+  |    **CSES**    |    [Distinct Color](https://cses.fi/problemset/task/1139)         | _Euler Tour, Data Structures, Small-To-Large_ |
+  | **Codeforces** | [Lomsat gelral](https://codeforces.com/contest/600/problem/E)     |               _Small-To-Large_                |
+  | **Codeforces** | [Dynamic Diameter](https://codeforces.com/contest/1192/problem/B) |         _Euler Tour, Data Structures_         |
 
 ---
 
