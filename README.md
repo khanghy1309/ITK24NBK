@@ -2,6 +2,8 @@
 
 Training syllabus for ITK21 NBK by **\_\_BruteForce\_\_**. Prepare for Quang Nam Olympiad in Informatics (2023) and Vietnamese National Olympiad in Informatics (VOI 2024).
 
+Update for ITK24 by **Vuong Huu Khang Hy**.
+
 ## Requirements
 
 Register accounts on Online Judges:
@@ -155,8 +157,8 @@ Register accounts on Online Judges:
 
   |    OJ     |                                             Name                                             |   Categories    |
   |:---------:|:--------------------------------------------------------------------------------------------:|:---------------:|
-  | **LOUGU** | [P3353 The Stars Shining Outside Your Window - 洛谷](https://www.luogu.com.cn/problem/P3353) |  _Prefix Sum_   |
-  | **LOUGU** |         [P1115 Maximum Subarray Sum - 洛谷](https://www.luogu.com.cn/problem/P1115)          |  _Prefix Sum_   |
+  | **Lougu** | [P3353 The Stars Shining Outside Your Window - 洛谷](https://www.luogu.com.cn/problem/P3353) |  _Prefix Sum_   |
+  | **Lougu** |         [P1115 Maximum Subarray Sum - 洛谷](https://www.luogu.com.cn/problem/P1115)          |  _Prefix Sum_   |
   | **VNOJ**  |                         [nkseq](https://oj.vnoi.info/problem/nkseq)                          |  _Prefix Sum_   |
   | **VNOJ**  |                        [vboard](https://oj.vnoi.info/problem/vboard)                         | _Prefix Sum 2D_ |
   | **VNOJ**  |                        [maxcub](https://oj.vnoi.info/problem/maxcub)                         | _Prefix Sum 3D_ |
