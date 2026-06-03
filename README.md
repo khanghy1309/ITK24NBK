@@ -854,7 +854,7 @@ Register accounts on Online Judges:
   | **VNOJ** |    [netaccel](https://oj.vnoi.info/problem/netaccel)    |    _Dijkstra_    |
   | **VNOJ** |       [mele2](https://oj.vnoi.info/problem/mele2)       |    _Dijkstra_    |
   | **VNOJ** |      [v8sort](https://oj.vnoi.info/problem/v8sort)      |    _Dijkstra_    |
-  | **VNOJ** |  [voi17metro](https://oj.vnoi.info/problem/voi17metro)  |    _Dijkstra_    |
+  | **VNOJ** |  [voi17_metro](https://oj.vnoi.info/problem/voi17_metro) |    _Dijkstra_    |
 
 ### Lesson 33 (25.05.23)
 
