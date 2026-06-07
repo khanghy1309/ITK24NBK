@@ -821,7 +821,6 @@ Register accounts on Online Judges:
   | **Codeforces** |        [Substring](https://codeforces.com/contest/919/problem/D)         |     _Topo Sort, DP_     |
   | **Codeforces** | [Gargari and Permutations](https://codeforces.com/contest/463/problem/D) |     _Topo Sort, DP_     |
   |    **VNOJ**    |            [kcollect](https://oj.vnoi.info/problem/kcollect)             | _Tarjan, Topo Sort, DP_ |
-  |   **NBKOJ**    |                   [atm](https://nbk.homes/problem/atm)                   | _Tarjan, Topo Sort, DP_ |
 
 ### Lesson 37 (08.06.23)
 
