@@ -831,6 +831,7 @@ Register accounts on Online Judges:
   - [2-SAT - CP-Algorithms](https://cp-algorithms.com/graph/2SAT.html)
   - [2-SAT Tutorial - Codeforces Blog](https://codeforces.com/blog/entry/16205)
   - [2-SAT Problem](https://drive.google.com/file/d/15UbO4GWo1G6cUBDnV6uWk0KxjuEdurCG/view)
+  - [2-SAT - VNOI Wiki](https://wiki.vnoi.info/vi/algo/graph-theory/2-SAT)
 
 - Practice Problems:
 
@@ -838,7 +839,6 @@ Register accounts on Online Judges:
   |:--------------:|:-------------------------------------------------------------------:|:----------:|
   |    **VNOJ**    |            [twosat](https://oj.vnoi.info/problem/twosat)            |  _2-SAT_   |
   |    **VNOJ**    |             [elect](https://oj.vnoi.info/problem/elect)             |  _2-SAT_   |
-  |   **NBKOJ**    |        [cwdgameshow](https://nbk.homes/problem/cwdgameshow)         |  _2-SAT_   |
   | **Codeforces** |  [The Door Problem](https://codeforces.com/contest/776/problem/D)   |  _2-SAT_   |
   | **Codeforces** | [The Road to Berland](https://codeforces.com/contest/228/problem/E) |  _2-SAT_   |
   | **Codeforces** |    [Ring Road 2](https://codeforces.com/problemset/problem/27/D)    |  _2-SAT_   |
