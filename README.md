@@ -852,18 +852,17 @@ Register accounts on Online Judges:
 - Resources:
   - [DP on Trees - Introduction - USACO Guide](https://usaco.guide/gold/dp-trees?lang=cpp)
   - [DP on Trees Tutorial - Codeforces Blog](https://codeforces.com/blog/entry/20935)
+  - [Quy hoạch động trên cây - VNOI Wiki](https://wiki.vnoi.info/vi/algo/dp/treedp)
 
 - Practice Problems:
 
-  |    OJ     |                           Name                            | Categories |
-  |:---------:|:---------------------------------------------------------:|:----------:|
-  | **VNOJ**  |        [v8org](https://oj.vnoi.info/problem/v8org)        | _DFS, DP_  |
-  | **VNOJ**  | [atcoder_dp_p](https://oj.vnoi.info/problem/atcoder_dp_p) | _DFS, DP_  |
-  | **NBKOJ** |     [paintbarn](https://nbk.homes/problem/paintbarn)      | _DFS, DP_  |
-  | **NBKOJ** |      [matching](https://nbk.homes/problem/matching)       | _DFS, DP_  |
-  | **VNOJ**  |        [mtree](https://oj.vnoi.info/problem/mtree)        | _DFS, DP_  |
-  | **VNOJ**  |      [lqdxeui](https://oj.vnoi.info/problem/lqdxeui)      | _DFS, DP_  |
-  | **VNOJ**  |      [kingdom](https://oj.vnoi.info/problem/kingdom)      | _DFS, DP_  |
+  |    OJ    |                           Name                            | Categories |
+  |:--------:|:---------------------------------------------------------:|:----------:|
+  | **VNOJ** |        [v8org](https://oj.vnoi.info/problem/v8org)        | _DFS, DP_  |
+  | **VNOJ** | [atcoder_dp_p](https://oj.vnoi.info/problem/atcoder_dp_p) | _DFS, DP_  |
+  | **VNOJ** |        [mtree](https://oj.vnoi.info/problem/mtree)        | _DFS, DP_  |
+  | **VNOJ** |      [lqdxeui](https://oj.vnoi.info/problem/lqdxeui)      | _DFS, DP_  |
+  | **VNOJ** |      [kingdom](https://oj.vnoi.info/problem/kingdom)      | _DFS, DP_  |
 
 ### Lesson 39 (15.06.23)
 
