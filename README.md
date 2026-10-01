@@ -1,4 +1,4 @@
-# BF Training ITK21 NBK
+# BF Training ITK24 NBK
 
 Training syllabus and roadmap for the Competitive Programming team (ITK21) at Nguyen Binh Khiem High School for the Gifted. Originally compiled by **\_\_BruteForce\_\_** for the Quang Nam Olympiad in Informatics (2023) and the Vietnamese National Olympiad in Informatics (VOI 2024).
 
@@ -8,7 +8,7 @@ Updated for the ITK24 cohort by **Vuong Huu Khang Hy**.
 
 Register accounts on Online Judges:
 
-- [Lougu](https://www.luogu.com.cn/)
+- [Luogu](https://www.luogu.com.cn/)
 - [VNOJ: VNOI Online Judge](https://oj.vnoi.info/)
 - [LQDOJ: Le Quy Don Online Judge](https://lqdoj.edu.vn/)
 - [Codeforces](https://codeforces.com/)
@@ -165,12 +165,12 @@ Register accounts on Online Judges:
   - [Introduction to Prefix Sum - USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
   - [More on Prefix Sum - USACO Guide](https://usaco.guide/silver/more-prefix-sums?lang=cpp)
 
-- Practice problems:
+- Practice Problems:
   
   | OJ        | Name                                                                                       | Categories      |
   |:---------:|:------------------------------------------------------------------------------------------:|:---------------:|
-  | **Lougu** | [P3353 The Stars Shining Outside Your Window - 洛谷](https://www.luogu.com.cn/problem/P3353) | _Prefix Sum_    |
-  | **Lougu** | [P1115 Maximum Subarray Sum - 洛谷](https://www.luogu.com.cn/problem/P1115)                  | _Prefix Sum_    |
+  | **Luogu** | [P3353 The Stars Shining Outside Your Window - 洛谷](https://www.luogu.com.cn/problem/P3353) | _Prefix Sum_    |
+  | **Luogu** | [P1115 Maximum Subarray Sum - 洛谷](https://www.luogu.com.cn/problem/P1115)                  | _Prefix Sum_    |
   | **VNOJ**  | [nkseq](https://oj.vnoi.info/problem/nkseq)                                                | _Prefix Sum_    |
   | **VNOJ**  | [vboard](https://oj.vnoi.info/problem/vboard)                                              | _Prefix Sum 2D_ |
   | **VNOJ**  | [maxcub](https://oj.vnoi.info/problem/maxcub)                                              | _Prefix Sum 3D_ |
@@ -203,7 +203,7 @@ Register accounts on Online Judges:
   |:--------------:|:--------------------------------------------------------:|:---------------:|
   | **Codeforces** | [Math](https://codeforces.com/problemset/problem/1062/B) | _Number Theory_ |
 
-- **_Recommendation_**
+- **_Recommendation:_**
   
   - [[CSES] Mathematics](https://cses.fi/problemset/)
 
@@ -225,7 +225,7 @@ Register accounts on Online Judges:
   - [Number of Divisors & Sum of Divisors - CP-Algorithms](https://cp-algorithms.com/algebra/divisors.html)
   - CodeCungRR Blogs: [blog 1](https://www.facebook.com/code.cung.rr/posts/pfbid0hfZaxATnTTtmm9Zvwx3FwkZ4159KVetcfPj93CLRmEoDRk4uSiKS8bMsswZrGSpml) and [blog 2](https://www.facebook.com/code.cung.rr/posts/pfbid02i2RMbeiaLrdBTEqdSyZSoxvUgbXSQaWCqRxV3XYKjEoK7DctdHJd4fDVfHEe1GDql)
 
-- Practice Problems
+- Practice Problems:
   
   | OJ        | Name                                                            | Categories                   |
   |:---------:|:---------------------------------------------------------------:|:----------------------------:|
@@ -361,7 +361,7 @@ Register accounts on Online Judges:
   - [Stack - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/Stack.md)
   - [Stack Data Structure - GeeksforGeeks](https://www.geeksforgeeks.org/stack-data-structure/)
 
-- Practice Problems
+- Practice Problems:
   
   | OJ             | Name                                                                                 | Categories    |
   |:--------------:|:------------------------------------------------------------------------------------:|:-------------:|
@@ -544,7 +544,7 @@ Register accounts on Online Judges:
   | **VNOJ**       | [qbbishop](https://oj.vnoi.info/problem/qbbishop)             | _BFS_                  |
   | **VNOJ**       | [vosnet](https://oj.vnoi.info/problem/vosnet)                 | _BFS, DP_              |
   | **VNOJ**       | [robocon](https://oj.vnoi.info/problem/robocon)               | _BFS_                  |
-  | **Codeforces** | [Subsequences](https://codeforces.com/contest/1183/problem/E) | _BFS, Data Strucutres_ |
+  | **Codeforces** | [Subsequences](https://codeforces.com/contest/1183/problem/E) | _BFS, Data Structures_ |
 
 ### Lesson 21 (25.02.23)
 
@@ -586,14 +586,14 @@ Register accounts on Online Judges:
   | **VNOJ**       | [nkguard](https://oj.vnoi.info/problem/nkguard)                          | _Graph Traversal_      |
   | **Codeforces** | [DFS Order](https://codeforces.com/gym/103861/problem/A)                 | _DFS_                  |
   | **Codeforces** | [Roads not only in Berland](https://codeforces.com/contest/25/problem/D) | _Graph Traversal, DSU_ |
-  | **VNOJ**       | [qbciarc](https://oj.vnoi.info/problem/qbcirarc)                         | _DFS_                  |
+  | **VNOJ**       | [qbcirarc](https://oj.vnoi.info/problem/qbcirarc)                         | _DFS_                  |
   | **VNOJ**       | [icpc22_regional_d](https://oj.vnoi.info/problem/icpc22_regional_d)      | _DFS_                  |
 
 ### Lesson 23 (04.03.23)
 
 - Concepts:
   
-  - Disjont Set Union (DSU or Union Find).
+  - Disjoint Set Union (DSU or Union Find).
 
 - Resources:
   
@@ -630,7 +630,7 @@ Register accounts on Online Judges:
   | **VNOJ**       | [fwater](https://oj.vnoi.info/problem/fwater)                        | _MST_                                    |
   | **VNOJ**       | [vnempire](https://oj.vnoi.info/problem/vnempire)                    | _MST_                                    |
   | **Codeforces** | [Path Queries](https://codeforces.com/contest/1213/problem/G)        | _MST, Combinatorics, Offline Processing_ |
-  | **Codeforces** | [Connected Components](https://codeforces.com/contest/292/problem/D) | _MST, , Offline Processing_              |
+  | **Codeforces** | [Connected Components](https://codeforces.com/contest/292/problem/D) | _MST, Offline Processing_                |
 
 ### Lesson 25 (14.04.23)
 
@@ -1039,7 +1039,7 @@ Register accounts on Online Judges:
   - Bitmask DP (continued).
   - Sum over Subsets (SOS) DP.
 
-- Resources
+- Resources:
   
   - [SOS Dynamic Programming [Tutorial] - Codeforces Blog](https://codeforces.com/blog/entry/45223)
   - [Sum over Subsets DP - USACO Guide](https://usaco.guide/adv/dp-sos?lang=cpp)
@@ -1081,7 +1081,7 @@ Register accounts on Online Judges:
   
   - Digit DP.
 
-- Resources
+- Resources:
   
   - [Digit DP - Codeforces Blog](https://codeforces.com/blog/entry/53960)
   - [Digit DP Tutorial - Codeforces - Blog](https://codeforces.com/blog/entry/77096)
@@ -1103,7 +1103,7 @@ Register accounts on Online Judges:
   
   - String Hashing and Rabin-Karp Algorithm.
 
-- Resources
+- Resources:
   
   - [Hash: A String Matching Algorithm - VNOI Wiki](https://wiki.vnoi.info/algo/string/hash.md)
   - [String Hashing - CP-Algorithms](https://cp-algorithms.com/string/string-hashing.html)
@@ -1122,7 +1122,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [Good Substrings](https://codeforces.com/problemset/problem/271/D)          | _String Hashing_ |
   | **Codeforces** | [Test](https://codeforces.com/problemset/problem/25/E)                      | _String Hashing_ |
 
-- **_Recommendation_**
+- **_Recommendation:_**
   
   - [[CSES] String Algorithms](https://cses.fi/problemset/)
 
@@ -1202,7 +1202,7 @@ Register accounts on Online Judges:
   - VNOI Wiki: [Basic 1](https://wiki.vnoi.info/algo/geometry/basic-geometry-1.md) and [Basic 2](https://wiki.vnoi.info/algo/geometry/basic-geometry-2.md)
   - CP-Algorithms: [Elementary Operations](https://cp-algorithms.com/geometry/basic-geometry.html) and [Polygons](https://cp-algorithms.com/geometry/oriented-triangle-area.html)
   - USACO Guide: [Geometry Primitives](https://usaco.guide/plat/geo-pri?lang=cpp)
-  - [Handbook of Geometry for CP](/https://victorlecomte.com/cp-geo.pdf)
+  - [Handbook of Geometry for CP](https://victorlecomte.com/cp-geo.pdf)
 
 - Practice Problems:
   
@@ -1210,7 +1210,7 @@ Register accounts on Online Judges:
   |:---------------:|:----------------------------------------------------------------------:|:----------:|
   | **Codeforces**  | [New Year and Curling](https://codeforces.com/contest/908/problem/C)   | _Geometry_ |
   | **Codeforces**  | [Nearest vectors](https://codeforces.com/contest/598/problem/C)        | _Geometry_ |
-  | **Codeforcces** | [Peter and Snow Blower](https://codeforces.com/contest/613/problem/A)  | _Geometry_ |
+  | **Codeforces**  | [Peter and Snow Blower](https://codeforces.com/contest/613/problem/A)  | _Geometry_ |
   | **Codeforces**  | [Robo-Footballer](https://codeforces.com/contest/248/problem/C)        | _Geometry_ |
   | **Codeforces**  | [Runaway to a Shadow](https://codeforces.com/problemset/problem/681/E) | _Geometry_ |
   | **VNOJ**        | [meterain](https://oj.vnoi.info/problem/meterain)                      | _Geometry_ |
@@ -1220,7 +1220,7 @@ Register accounts on Online Judges:
 
 - **_Recommendation:_**
   
-  - [[ VNOJ ] Educational Geometry Contest](https://oj.vnoi.info/contest/backtrack) (or [Russian orignal version](https://codeforces.com/gym/100168))
+  - [[ VNOJ ] Educational Geometry Contest](https://oj.vnoi.info/contest/geometry) (or [Russian original version](https://codeforces.com/gym/100168))
   - [[CSES] Geometry](https://cses.fi/problemset/)
 
 ### Lesson 52 (04.09.23)
@@ -1313,7 +1313,7 @@ Register accounts on Online Judges:
   - Eulerian Tour on Tree.
   - Small-to-Large Merging.
 
-- Resources
+- Resources:
   
   - [Eulerian Path and Circuit - VNOI Wiki](https://wiki.vnoi.info/algo/graph-theory/euler-cycle.md)
   - [Finding Euler Path - CP-Algorithms](https://cp-algorithms.com/graph/euler_path.html)
@@ -1340,7 +1340,7 @@ Register accounts on Online Judges:
   - Convex Hull Trick.
   - Li Chao Tree.
 
-- Resources
+- Resources:
   
   - [Convex Hull Trick - VNOI Wiki](https://wiki.vnoi.info/algo/dp/cht)
   - [Li-chao Tree - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/lichao-tree)
@@ -1373,7 +1373,7 @@ Register accounts on Online Judges:
 
 - Concepts:
   
-  - Divide and Conquer Dp (Knuth-Yao Optimization)
+  - Divide and Conquer Dp.
 
 - Resources:
   
@@ -1422,6 +1422,271 @@ Register accounts on Online Judges:
   | OJ        | Name                                                              | Categories       |
   |:---------:|:-----------------------------------------------------------------:|:----------------:|
   | **K23OJ** | [Flow & Matching #1](https://k23oj.io.vn/contest/flow_matching_1) | _Flow, Matching_ |
+
+### Lesson 62 (05.10.26)
+
+- Concepts:
+  
+  - Single-source Shortest Paths: Bellman-Ford Algorithm and SPFA.
+  - Finding Negative Cycles.
+  - Functional Graphs (Successor Graphs).
+
+- Resources:
+  
+  - [Bellman-Ford Algorithm - CP-Algorithms](https://cp-algorithms.com/graph/bellman_ford.html)
+  - [Finding a Negative Cycle in the Graph - CP-Algorithms](https://cp-algorithms.com/graph/finding-negative-cycle-in-graph.html)
+  - [Introduction to Functional Graphs - USACO Guide](https://usaco.guide/silver/func-graphs?lang=cpp)
+
+- Practice Problems:
+  
+  |       OJ       |                            Name                            |             Categories             |
+  |:--------------:|:----------------------------------------------------------:|:----------------------------------:|
+  | **CSES**       | [High Score](https://cses.fi/problemset/task/1673)         | _Bellman-Ford_                     |
+  | **CSES**       | [Cycle Finding](https://cses.fi/problemset/task/1197)      | _Bellman-Ford, Negative Cycle_     |
+  | **Codeforces** | [Badge](https://codeforces.com/problemset/problem/1020/B)  | _Functional Graph_                 |
+  | **CSES**       | [Planets Queries I](https://cses.fi/problemset/task/1750)  | _Functional Graph, Binary Lifting_ |
+  | **CSES**       | [Planets Cycles](https://cses.fi/problemset/task/1751)     | _Functional Graph_                 |
+  | **CSES**       | [Planets Queries II](https://cses.fi/problemset/task/1160) | _Functional Graph, Binary Lifting_ |
+
+### Lesson 63 (19.10.26)
+
+- Concepts:
+  
+  - Game Theory: Winning and Losing Positions.
+  - Nim Game.
+  - Sprague-Grundy Theorem.
+
+- Resources:
+  
+  - [Sprague-Grundy theorem. Nim - CP-Algorithms](https://cp-algorithms.com/game_theory/sprague-grundy-nim.html)
+  - [Games on arbitrary graphs - CP-Algorithms](https://cp-algorithms.com/game_theory/games_on_graphs.html)
+
+- Practice Problems:
+  
+  |       OJ       |                                  Name                                 |     Categories     |
+  |:--------------:|:---------------------------------------------------------------------:|:------------------:|
+  | **CSES**       | [Stick Game](https://cses.fi/problemset/task/1729)                    | _Game Theory, DP_  |
+  | **CSES**       | [Nim Game I](https://cses.fi/problemset/task/1730)                    | _Game Theory, Nim_ |
+  | **CSES**       | [Nim Game II](https://cses.fi/problemset/task/1098)                   | _Game Theory, Nim_ |
+  | **CSES**       | [Stair Game](https://cses.fi/problemset/task/1099)                    | _Game Theory, Nim_ |
+  | **CSES**       | [Grundy's Game](https://cses.fi/problemset/task/2207)                 | _Sprague-Grundy_   |
+  | **Codeforces** | [Lieges of Legendre](https://codeforces.com/problemset/problem/603/C) | _Sprague-Grundy_   |
+
+### Lesson 64 (02.11.26)
+
+- Concepts:
+  
+  - Combinatorics: Catalan Numbers, Derangements, Stirling Numbers.
+
+- Resources:
+  
+  - [Catalan Numbers - CP-Algorithms](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
+  - [Inclusion-Exclusion Principle - CP-Algorithms](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
+
+- Practice Problems:
+  
+  |    OJ    |                             Name                             |        Categories        |
+  |:--------:|:------------------------------------------------------------:|:------------------------:|
+  | **CSES** | [Bracket Sequences I](https://cses.fi/problemset/task/2064)  | _Combinatorics, Catalan_ |
+  | **CSES** | [Christmas Party](https://cses.fi/problemset/task/1717)      | _Combinatorics, DP_      |
+  | **CSES** | [Bracket Sequences II](https://cses.fi/problemset/task/2187) | _Combinatorics, Catalan_ |
+
+### Lesson 65 (16.11.26)
+
+- Concepts:
+  
+  - Probabilities and Expected Value.
+  - Linearity of Expectation.
+  - Expected Value DP.
+
+- Resources:
+  
+  - [Probabilities - VNOI Wiki](https://wiki.vnoi.info/translate/he/Number-Theory-6.md)
+
+- Practice Problems:
+  
+  |       OJ       |                                     Name                                    |              Categories             |
+  |:--------------:|:---------------------------------------------------------------------------:|:-----------------------------------:|
+  | **CSES**       | [Dice Probability](https://cses.fi/problemset/task/1725)                    | _Probabilities, DP_                 |
+  | **CSES**       | [Candy Lottery](https://cses.fi/problemset/task/1727)                       | _Expected Value_                    |
+  | **CSES**       | [Inversion Probability](https://cses.fi/problemset/task/1728)               | _Expected Value_                    |
+  | **CSES**       | [Moving Robots](https://cses.fi/problemset/task/1726)                       | _Probabilities, DP_                 |
+  | **AtCoder**    | [Sushi](https://atcoder.jp/contests/dp/tasks/dp_j)                          | _Expected Value, DP_                |
+  | **Codeforces** | [Ilya and Escalator](https://codeforces.com/problemset/problem/518/D)       | _Expected Value, DP_                |
+  | **Codeforces** | [Makoto and a Blackboard](https://codeforces.com/problemset/problem/1097/D) | _Expected Value, DP, Number Theory_ |
+
+### Lesson 66 (07.12.26)
+
+- Concepts:
+  
+  - Offline Processing.
+  - DSU with Rollback and Segment Tree on Time (Offline Dynamic Connectivity).
+  - CDQ Divide and Conquer.
+
+- Resources:
+  
+  - [Deleting from a data structure in O(T(n) log n) - CP-Algorithms](https://cp-algorithms.com/data_structures/deleting_in_log_n.html)
+  - [CDQ Divide and Conquer - OI Wiki](https://oi-wiki.org/misc/cdq-divide/)
+
+- Practice Problems:
+  
+  |       OJ       |                                       Name                                      |               Categories               |
+  |:--------------:|:-------------------------------------------------------------------------------:|:--------------------------------------:|
+  | **CSES**       | [Dynamic Connectivity](https://cses.fi/problemset/task/2133)                    | _DSU Rollback, Offline Processing_     |
+  | **Codeforces** | [Bipartite Checking](https://codeforces.com/problemset/problem/813/F)           | _DSU Rollback, Offline Processing_     |
+  | **Luogu**      | [P3810 Three-dimensional Partial Order](https://www.luogu.com.cn/problem/P3810) | _CDQ Divide and Conquer, Fenwick Tree_ |
+
+### Lesson 67 (11.01.27)
+
+- Concepts:
+  
+  - Flow & Matching (continued): Dinic's Algorithm, Minimum Cut, Min-cost Flow.
+  - König's Theorem and Hall's Theorem.
+
+- Resources:
+  
+  - [Dinic's Algorithm - CP-Algorithms](https://cp-algorithms.com/graph/dinic.html)
+  - [Kuhn's Algorithm for Maximum Bipartite Matching - CP-Algorithms](https://cp-algorithms.com/graph/kuhn_maximum_bipartite_matching.html)
+  - [Minimum-cost flow - CP-Algorithms](https://cp-algorithms.com/graph/min_cost_flow.html)
+
+- Practice Problems:
+  
+  |       OJ       |                                 Name                                |      Categories     |
+  |:--------------:|:-------------------------------------------------------------------:|:-------------------:|
+  | **CSES**       | [Download Speed](https://cses.fi/problemset/task/1694)              | _Flow_              |
+  | **CSES**       | [Police Chase](https://cses.fi/problemset/task/1695)                | _Flow, Minimum Cut_ |
+  | **CSES**       | [School Dance](https://cses.fi/problemset/task/1696)                | _Matching_          |
+  | **CSES**       | [Distinct Routes](https://cses.fi/problemset/task/1711)             | _Flow_              |
+  | **Codeforces** | [Petya and Graph](https://codeforces.com/problemset/problem/1082/G) | _Flow, Minimum Cut_ |
+
+### Lesson 68 (01.02.27)
+
+- Concepts:
+  
+  - Binary Trie (XOR Problems).
+  - Persistent Segment Tree.
+  - Treap and Implicit Treap.
+
+- Resources:
+  
+  - [Persistent Segment Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#persistent-segment-tree)
+  - [Treap - CP-Algorithms](https://cp-algorithms.com/data_structures/treap.html)
+
+- Practice Problems:
+  
+  |       OJ       |                                  Name                                 |         Categories        |
+  |:--------------:|:---------------------------------------------------------------------:|:-------------------------:|
+  | **Codeforces** | [Vasiliy's Multiset](https://codeforces.com/problemset/problem/706/D) | _Trie, Bitwise_           |
+  | **SPOJ**       | [MKTHNUM](https://www.spoj.com/problems/MKTHNUM/)                     | _Persistent Segment Tree_ |
+  | **CSES**       | [Range Queries and Copies](https://cses.fi/problemset/task/1737)      | _Persistent Segment Tree_ |
+  | **CSES**       | [Cut and Paste](https://cses.fi/problemset/task/2072)                 | _Implicit Treap_          |
+  | **CSES**       | [Substring Reversals](https://cses.fi/problemset/task/2073)           | _Implicit Treap_          |
+  | **CSES**       | [Reversals and Sums](https://cses.fi/problemset/task/2074)            | _Implicit Treap_          |
+
+### Lesson 69 (15.02.27)
+
+- Concepts:
+  
+  - Segment Tree Beats.
+  - Mo's Algorithm with Updates.
+  - Mo's Algorithm on Trees.
+
+- Resources:
+  
+  - [A simple introduction to "Segment tree beats" - Codeforces Blog](https://codeforces.com/blog/entry/57319)
+  - [Mo's Algorithm on Trees [Tutorial] - Codeforces Blog](https://codeforces.com/blog/entry/43230)
+
+- Practice Problems:
+  
+  |       OJ       |                                    Name                                   |       Categories      |
+  |:--------------:|:-------------------------------------------------------------------------:|:---------------------:|
+  | **Codeforces** | [The Child and Sequence](https://codeforces.com/problemset/problem/438/D) | _Segment Tree Beats_  |
+  | **Codeforces** | [Machine Learning](https://codeforces.com/problemset/problem/940/F)       | _Mo's Algorithm_      |
+  | **SPOJ**       | [COT2](https://www.spoj.com/problems/COT2/)                               | _Mo's Algorithm, LCA_ |
+
+### Lesson 70 (01.03.27)
+
+- Concepts:
+  
+  - Suffix Array and LCP Array.
+  - Aho-Corasick Algorithm.
+
+- Resources:
+  
+  - [Suffix Array - CP-Algorithms](https://cp-algorithms.com/string/suffix-array.html)
+  - [Aho-Corasick Algorithm - CP-Algorithms](https://cp-algorithms.com/string/aho_corasick.html)
+
+- Practice Problems:
+  
+  |       OJ       |                                  Name                                 |            Categories            |
+  |:--------------:|:---------------------------------------------------------------------:|:--------------------------------:|
+  | **CSES**       | [Finding Patterns](https://cses.fi/problemset/task/2102)              | _String Searching, Aho-Corasick_ |
+  | **CSES**       | [Distinct Substrings](https://cses.fi/problemset/task/2105)           | _Suffix Array_                   |
+  | **CSES**       | [Repeating Substring](https://cses.fi/problemset/task/2106)           | _Suffix Array_                   |
+  | **Codeforces** | [e-Government](https://codeforces.com/problemset/problem/163/E)       | _Aho-Corasick, Fenwick Tree_     |
+  | **Codeforces** | [String Set Queries](https://codeforces.com/problemset/problem/710/F) | _Aho-Corasick, Hashing_          |
+
+### Lesson 71 (15.03.27)
+
+- Concepts:
+  
+  - Rerooting DP (DP on Trees for All Roots).
+  - Virtual Tree (Auxiliary Tree).
+  - Kruskal Reconstruction Tree.
+
+- Resources:
+  
+  - [DP on Trees - Solving For All Roots - USACO Guide](https://usaco.guide/gold/all-roots?lang=cpp)
+  - [Virtual Tree - OI Wiki](https://oi-wiki.org/graph/virtual-tree/)
+
+- Practice Problems:
+  
+  |       OJ       |                                    Name                                   |             Categories             |
+  |:--------------:|:-------------------------------------------------------------------------:|:----------------------------------:|
+  | **CSES**       | [Tree Distances I](https://cses.fi/problemset/task/1132)                  | _DP on Trees, Rerooting_           |
+  | **CSES**       | [Tree Distances II](https://cses.fi/problemset/task/1133)                 | _DP on Trees, Rerooting_           |
+  | **Codeforces** | [Tree Painting](https://codeforces.com/problemset/problem/1187/E)         | _DP on Trees, Rerooting_           |
+  | **Codeforces** | [Kingdom and its Cities](https://codeforces.com/problemset/problem/613/D) | _Virtual Tree, DP_                 |
+  | **Codeforces** | [Graph and Queries](https://codeforces.com/problemset/problem/1416/D)     | _DSU, Kruskal Reconstruction Tree_ |
+
+### Lesson 72 (05.04.27)
+
+- Concepts:
+  
+  - Divide and Conquer DP (continued).
+  - Knuth Optimization.
+
+- Resources:
+  
+  - [Divide and Conquer DP - CP-Algorithms](https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html)
+  - [Knuth's Optimization - CP-Algorithms](https://cp-algorithms.com/dynamic_programming/knuth-optimization.html)
+
+- Practice Problems:
+  
+  |       OJ       |                                         Name                                        |           Categories           |
+  |:--------------:|:-----------------------------------------------------------------------------------:|:------------------------------:|
+  | **Codeforces** | [Ciel and Gondolas](https://codeforces.com/problemset/problem/321/E)                | _DP, Divide and Conquer_       |
+  | **Codeforces** | [Yet Another Minimization Problem](https://codeforces.com/problemset/problem/868/F) | _DP, Divide and Conquer_       |
+  | **Luogu**      | [P1880 Stone Merging](https://www.luogu.com.cn/problem/P1880)                       | _Range DP, Knuth Optimization_ |
+
+### Lesson 73 (19.04.27)
+
+- Concepts:
+  
+  - Slope Trick.
+  - XOR Basis (Linear Basis).
+
+- Resources:
+  
+  - [[Tutorial] Slope Trick - Codeforces Blog](https://codeforces.com/blog/entry/47821)
+  - [A Beautiful Technique for Some XOR Related Problems - Codeforces Blog](https://codeforces.com/blog/entry/68953)
+
+- Practice Problems:
+  
+  |       OJ       |                                          Name                                         |      Categories      |
+  |:--------------:|:-------------------------------------------------------------------------------------:|:--------------------:|
+  | **Codeforces** | [Sonya and Problem Wihtout a Legend](https://codeforces.com/problemset/problem/713/C) | _DP, Slope Trick_    |
+  | **Codeforces** | [(Zero XOR Subset)-less](https://codeforces.com/problemset/problem/1101/G)            | _XOR Basis, Bitwise_ |
 
 ---
 
