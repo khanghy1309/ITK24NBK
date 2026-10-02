@@ -1448,7 +1448,7 @@ Register accounts on Online Judges:
   | **CSES**       | [Planets Cycles](https://cses.fi/problemset/task/1751)     | _Functional Graph_                 |
   | **CSES**       | [Planets Queries II](https://cses.fi/problemset/task/1160) | _Functional Graph, Binary Lifting_ |
 
-### Lesson 63 (19.10.26)
+### Lesson 63 (07.10.26)
 
 - Concepts:
   
@@ -1472,7 +1472,7 @@ Register accounts on Online Judges:
   | **CSES**       | [Grundy's Game](https://cses.fi/problemset/task/2207)                 | _Sprague-Grundy_   |
   | **Codeforces** | [Lieges of Legendre](https://codeforces.com/problemset/problem/603/C) | _Sprague-Grundy_   |
 
-### Lesson 64 (02.11.26)
+### Lesson 64 (09.10.26)
 
 - Concepts:
   
@@ -1491,7 +1491,7 @@ Register accounts on Online Judges:
   | **CSES** | [Christmas Party](https://cses.fi/problemset/task/1717)      | _Combinatorics, DP_      |
   | **CSES** | [Bracket Sequences II](https://cses.fi/problemset/task/2187) | _Combinatorics, Catalan_ |
 
-### Lesson 65 (09.11.26)
+### Lesson 65 (12.10.26)
 
 - Concepts:
   
@@ -1515,7 +1515,7 @@ Register accounts on Online Judges:
   | **VNOJ**       | [voi19_aspal](https://oj.vnoi.info/problem/voi19_aspal)                   | _Bitmask DP, Lexicographic Order_          |
   | **VNOJ**       | [voi25_encode](https://oj.vnoi.info/problem/voi25_encode)                 | _DP, Lexicographic Order, Data Structures_ |
 
-### Lesson 66 (16.11.26)
+### Lesson 66 (14.10.26)
 
 - Concepts:
   
@@ -1539,28 +1539,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [Ilya and Escalator](https://codeforces.com/problemset/problem/518/D)       | _Expected Value, DP_                |
   | **Codeforces** | [Makoto and a Blackboard](https://codeforces.com/problemset/problem/1097/D) | _Expected Value, DP, Number Theory_ |
 
-### Lesson 67 (07.12.26)
-
-- Concepts:
-  
-  - Offline Processing.
-  - DSU with Rollback and Segment Tree on Time (Offline Dynamic Connectivity).
-  - CDQ Divide and Conquer.
-
-- Resources:
-  
-  - [Deleting from a data structure in O(T(n) log n) - CP-Algorithms](https://cp-algorithms.com/data_structures/deleting_in_log_n.html)
-  - [CDQ Divide and Conquer - OI Wiki](https://oi-wiki.org/misc/cdq-divide/)
-
-- Practice Problems:
-  
-  |       OJ       |                                       Name                                      |               Categories               |
-  |:--------------:|:-------------------------------------------------------------------------------:|:--------------------------------------:|
-  | **CSES**       | [Dynamic Connectivity](https://cses.fi/problemset/task/2133)                    | _DSU Rollback, Offline Processing_     |
-  | **Codeforces** | [Bipartite Checking](https://codeforces.com/problemset/problem/813/F)           | _DSU Rollback, Offline Processing_     |
-  | **Luogu**      | [P3810 Three-dimensional Partial Order](https://www.luogu.com.cn/problem/P3810) | _CDQ Divide and Conquer, Fenwick Tree_ |
-
-### Lesson 68 (14.12.26)
+### Lesson 67 (16.10.26)
 
 - Concepts:
   
@@ -1581,30 +1560,76 @@ Register accounts on Online Judges:
   | **Codeforces** | [The Number of Imposters](https://codeforces.com/problemset/problem/1594/D) | _DSU with Parity_ |
   | **Luogu**      | [P2024 Food Chain](https://www.luogu.com.cn/problem/P2024)                  | _Weighted DSU_    |
 
-### Lesson 69 (11.01.27)
+### Lesson 68 (19.10.26)
 
 - Concepts:
   
-  - Flow & Matching (continued): Dinic's Algorithm, Minimum Cut, Min-cost Flow.
-  - König's Theorem and Hall's Theorem.
+  - Sweep Line with Segment Tree and Fenwick Tree.
+  - Area of Union of Rectangles.
+  - Counting Points in Rectangles (Offline).
 
 - Resources:
   
-  - [Dinic's Algorithm - CP-Algorithms](https://cp-algorithms.com/graph/dinic.html)
-  - [Kuhn's Algorithm for Maximum Bipartite Matching - CP-Algorithms](https://cp-algorithms.com/graph/kuhn_maximum_bipartite_matching.html)
-  - [Minimum-cost flow - CP-Algorithms](https://cp-algorithms.com/graph/min_cost_flow.html)
+  - [Sweep Line - VNOI Wiki](https://wiki.vnoi.info/algo/geometry/Sweep-Line.md)
+  - [Sweep Line - USACO Guide](https://usaco.guide/plat/sweep-line?lang=cpp)
 
 - Practice Problems:
   
-  |       OJ       |                                 Name                                |      Categories     |
-  |:--------------:|:-------------------------------------------------------------------:|:-------------------:|
-  | **CSES**       | [Download Speed](https://cses.fi/problemset/task/1694)              | _Flow_              |
-  | **CSES**       | [Police Chase](https://cses.fi/problemset/task/1695)                | _Flow, Minimum Cut_ |
-  | **CSES**       | [School Dance](https://cses.fi/problemset/task/1696)                | _Matching_          |
-  | **CSES**       | [Distinct Routes](https://cses.fi/problemset/task/1711)             | _Flow_              |
-  | **Codeforces** | [Petya and Graph](https://codeforces.com/problemset/problem/1082/G) | _Flow, Minimum Cut_ |
+  |       OJ       |                                Name                               |         Categories         |
+  |:--------------:|:-----------------------------------------------------------------:|:--------------------------:|
+  | **CSES**       | [Intersection Points](https://cses.fi/problemset/task/1740)       | _Sweep Line, Fenwick Tree_ |
+  | **CSES**       | [Nested Ranges Count](https://cses.fi/problemset/task/2169)       | _Sweep Line, Fenwick Tree_ |
+  | **VNOJ**       | [area](https://oj.vnoi.info/problem/area)                         | _Sweep Line, Segment Tree_ |
+  | **CSES**       | [Area of Rectangles](https://cses.fi/problemset/task/1741)        | _Sweep Line, Segment Tree_ |
+  | **Codeforces** | [Divide Square](https://codeforces.com/problemset/problem/1401/E) | _Sweep Line, Fenwick Tree_ |
 
-### Lesson 70 (01.02.27)
+### Lesson 69 (21.10.26)
+
+- Concepts:
+  
+  - SQRT Decomposition (continued): Heavy-Light Thresholds and Query Batching.
+  - Bitset Optimization.
+
+- Resources:
+  
+  - [Square Root Decomposition - USACO Guide](https://usaco.guide/plat/sqrt?lang=cpp)
+  - [Sqrt Decomposition - CP-Algorithms](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
+  - [Bitsets - USACO Guide](https://usaco.guide/plat/bitsets?lang=cpp)
+
+- Practice Problems:
+  
+  |       OJ       |                                  Name                                 |        Categories        |
+  |:--------------:|:---------------------------------------------------------------------:|:------------------------:|
+  | **Codeforces** | [Array Queries](https://codeforces.com/problemset/problem/797/E)      | _SQRT Decomposition, DP_ |
+  | **Codeforces** | [Remainder Problem](https://codeforces.com/problemset/problem/1207/F) | _SQRT Decomposition_     |
+  | **CSES**       | [School Excursion](https://cses.fi/problemset/task/1706)              | _Bitset, DP_             |
+  | **CSES**       | [Reachable Nodes](https://cses.fi/problemset/task/2138)               | _Bitset, DP on DAG_      |
+  | **CSES**       | [Reachability Queries](https://cses.fi/problemset/task/2143)          | _Bitset, Graphs_         |
+
+### Lesson 70 (23.10.26)
+
+- Concepts:
+  
+  - Rerooting DP (DP on Trees for All Roots).
+  - Virtual Tree (Auxiliary Tree).
+  - Kruskal Reconstruction Tree.
+
+- Resources:
+  
+  - [DP on Trees - Solving For All Roots - USACO Guide](https://usaco.guide/gold/all-roots?lang=cpp)
+  - [Virtual Tree - OI Wiki](https://oi-wiki.org/graph/virtual-tree/)
+
+- Practice Problems:
+  
+  |       OJ       |                                    Name                                   |             Categories             |
+  |:--------------:|:-------------------------------------------------------------------------:|:----------------------------------:|
+  | **CSES**       | [Tree Distances I](https://cses.fi/problemset/task/1132)                  | _DP on Trees, Rerooting_           |
+  | **CSES**       | [Tree Distances II](https://cses.fi/problemset/task/1133)                 | _DP on Trees, Rerooting_           |
+  | **Codeforces** | [Tree Painting](https://codeforces.com/problemset/problem/1187/E)         | _DP on Trees, Rerooting_           |
+  | **Codeforces** | [Kingdom and its Cities](https://codeforces.com/problemset/problem/613/D) | _Virtual Tree, DP_                 |
+  | **Codeforces** | [Graph and Queries](https://codeforces.com/problemset/problem/1416/D)     | _DSU, Kruskal Reconstruction Tree_ |
+
+### Lesson 71 (26.10.26)
 
 - Concepts:
   
@@ -1628,74 +1653,7 @@ Register accounts on Online Judges:
   | **CSES**       | [Substring Reversals](https://cses.fi/problemset/task/2073)           | _Implicit Treap_          |
   | **CSES**       | [Reversals and Sums](https://cses.fi/problemset/task/2074)            | _Implicit Treap_          |
 
-### Lesson 71 (08.02.27)
-
-- Concepts:
-  
-  - Sweep Line with Segment Tree and Fenwick Tree.
-  - Area of Union of Rectangles.
-  - Counting Points in Rectangles (Offline).
-
-- Resources:
-  
-  - [Sweep Line - VNOI Wiki](https://wiki.vnoi.info/algo/geometry/Sweep-Line.md)
-  - [Sweep Line - USACO Guide](https://usaco.guide/plat/sweep-line?lang=cpp)
-
-- Practice Problems:
-  
-  |       OJ       |                                Name                               |         Categories         |
-  |:--------------:|:-----------------------------------------------------------------:|:--------------------------:|
-  | **CSES**       | [Intersection Points](https://cses.fi/problemset/task/1740)       | _Sweep Line, Fenwick Tree_ |
-  | **CSES**       | [Nested Ranges Count](https://cses.fi/problemset/task/2169)       | _Sweep Line, Fenwick Tree_ |
-  | **VNOJ**       | [area](https://oj.vnoi.info/problem/area)                         | _Sweep Line, Segment Tree_ |
-  | **CSES**       | [Area of Rectangles](https://cses.fi/problemset/task/1741)        | _Sweep Line, Segment Tree_ |
-  | **Codeforces** | [Divide Square](https://codeforces.com/problemset/problem/1401/E) | _Sweep Line, Fenwick Tree_ |
-
-### Lesson 72 (15.02.27)
-
-- Concepts:
-  
-  - Segment Tree Beats.
-  - Mo's Algorithm with Updates.
-  - Mo's Algorithm on Trees.
-
-- Resources:
-  
-  - [A simple introduction to "Segment tree beats" - Codeforces Blog](https://codeforces.com/blog/entry/57319)
-  - [Mo's Algorithm on Trees [Tutorial] - Codeforces Blog](https://codeforces.com/blog/entry/43230)
-
-- Practice Problems:
-  
-  |       OJ       |                                    Name                                   |       Categories      |
-  |:--------------:|:-------------------------------------------------------------------------:|:---------------------:|
-  | **Codeforces** | [The Child and Sequence](https://codeforces.com/problemset/problem/438/D) | _Segment Tree Beats_  |
-  | **Codeforces** | [Machine Learning](https://codeforces.com/problemset/problem/940/F)       | _Mo's Algorithm_      |
-  | **SPOJ**       | [COT2](https://www.spoj.com/problems/COT2/)                               | _Mo's Algorithm, LCA_ |
-
-### Lesson 73 (22.02.27)
-
-- Concepts:
-  
-  - SQRT Decomposition (continued): Heavy-Light Thresholds and Query Batching.
-  - Bitset Optimization.
-
-- Resources:
-  
-  - [Square Root Decomposition - USACO Guide](https://usaco.guide/plat/sqrt?lang=cpp)
-  - [Sqrt Decomposition - CP-Algorithms](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
-  - [Bitsets - USACO Guide](https://usaco.guide/plat/bitsets?lang=cpp)
-
-- Practice Problems:
-  
-  |       OJ       |                                  Name                                 |        Categories        |
-  |:--------------:|:---------------------------------------------------------------------:|:------------------------:|
-  | **Codeforces** | [Array Queries](https://codeforces.com/problemset/problem/797/E)      | _SQRT Decomposition, DP_ |
-  | **Codeforces** | [Remainder Problem](https://codeforces.com/problemset/problem/1207/F) | _SQRT Decomposition_     |
-  | **CSES**       | [School Excursion](https://cses.fi/problemset/task/1706)              | _Bitset, DP_             |
-  | **CSES**       | [Reachable Nodes](https://cses.fi/problemset/task/2138)               | _Bitset, DP on DAG_      |
-  | **CSES**       | [Reachability Queries](https://cses.fi/problemset/task/2143)          | _Bitset, Graphs_         |
-
-### Lesson 74 (01.03.27)
+### Lesson 72 (29.10.26)
 
 - Concepts:
   
@@ -1717,30 +1675,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [e-Government](https://codeforces.com/problemset/problem/163/E)       | _Aho-Corasick, Fenwick Tree_     |
   | **Codeforces** | [String Set Queries](https://codeforces.com/problemset/problem/710/F) | _Aho-Corasick, Hashing_          |
 
-### Lesson 75 (15.03.27)
-
-- Concepts:
-  
-  - Rerooting DP (DP on Trees for All Roots).
-  - Virtual Tree (Auxiliary Tree).
-  - Kruskal Reconstruction Tree.
-
-- Resources:
-  
-  - [DP on Trees - Solving For All Roots - USACO Guide](https://usaco.guide/gold/all-roots?lang=cpp)
-  - [Virtual Tree - OI Wiki](https://oi-wiki.org/graph/virtual-tree/)
-
-- Practice Problems:
-  
-  |       OJ       |                                    Name                                   |             Categories             |
-  |:--------------:|:-------------------------------------------------------------------------:|:----------------------------------:|
-  | **CSES**       | [Tree Distances I](https://cses.fi/problemset/task/1132)                  | _DP on Trees, Rerooting_           |
-  | **CSES**       | [Tree Distances II](https://cses.fi/problemset/task/1133)                 | _DP on Trees, Rerooting_           |
-  | **Codeforces** | [Tree Painting](https://codeforces.com/problemset/problem/1187/E)         | _DP on Trees, Rerooting_           |
-  | **Codeforces** | [Kingdom and its Cities](https://codeforces.com/problemset/problem/613/D) | _Virtual Tree, DP_                 |
-  | **Codeforces** | [Graph and Queries](https://codeforces.com/problemset/problem/1416/D)     | _DSU, Kruskal Reconstruction Tree_ |
-
-### Lesson 76 (05.04.27)
+### Lesson 73 (02.11.26)
 
 - Concepts:
   
@@ -1760,7 +1695,49 @@ Register accounts on Online Judges:
   | **Codeforces** | [Yet Another Minimization Problem](https://codeforces.com/problemset/problem/868/F) | _DP, Divide and Conquer_       |
   | **Luogu**      | [P1880 Stone Merging](https://www.luogu.com.cn/problem/P1880)                       | _Range DP, Knuth Optimization_ |
 
-### Lesson 77 (19.04.27)
+### Lesson 74 (04.11.26)
+
+- Concepts:
+  
+  - Offline Processing.
+  - DSU with Rollback and Segment Tree on Time (Offline Dynamic Connectivity).
+  - CDQ Divide and Conquer.
+
+- Resources:
+  
+  - [Deleting from a data structure in O(T(n) log n) - CP-Algorithms](https://cp-algorithms.com/data_structures/deleting_in_log_n.html)
+  - [CDQ Divide and Conquer - OI Wiki](https://oi-wiki.org/misc/cdq-divide/)
+
+- Practice Problems:
+  
+  |       OJ       |                                       Name                                      |               Categories               |
+  |:--------------:|:-------------------------------------------------------------------------------:|:--------------------------------------:|
+  | **CSES**       | [Dynamic Connectivity](https://cses.fi/problemset/task/2133)                    | _DSU Rollback, Offline Processing_     |
+  | **Codeforces** | [Bipartite Checking](https://codeforces.com/problemset/problem/813/F)           | _DSU Rollback, Offline Processing_     |
+  | **Luogu**      | [P3810 Three-dimensional Partial Order](https://www.luogu.com.cn/problem/P3810) | _CDQ Divide and Conquer, Fenwick Tree_ |
+
+### Lesson 75 (06.11.26)
+
+- Concepts:
+  
+  - Segment Tree Beats.
+  - Mo's Algorithm with Updates.
+  - Mo's Algorithm on Trees.
+
+- Resources:
+  
+  - [A simple introduction to "Segment tree beats" - Codeforces Blog](https://codeforces.com/blog/entry/57319)
+  - [Mo's Algorithm on Trees [Tutorial] - Codeforces Blog](https://codeforces.com/blog/entry/43230)
+
+- Practice Problems:
+  
+  |       OJ       |                                    Name                                   |       Categories      |
+  |:--------------:|:-------------------------------------------------------------------------:|:---------------------:|
+  | **Codeforces** | [The Child and Sequence](https://codeforces.com/problemset/problem/438/D) | _Segment Tree Beats_  |
+  | **Codeforces** | [Machine Learning](https://codeforces.com/problemset/problem/940/F)       | _Mo's Algorithm_      |
+  | **SPOJ**       | [COT2](https://www.spoj.com/problems/COT2/)                               | _Mo's Algorithm, LCA_ |
+
+### Lesson 76 (09.11.26)
 
 - Concepts:
   
@@ -1778,6 +1755,29 @@ Register accounts on Online Judges:
   |:--------------:|:-------------------------------------------------------------------------------------:|:--------------------:|
   | **Codeforces** | [Sonya and Problem Wihtout a Legend](https://codeforces.com/problemset/problem/713/C) | _DP, Slope Trick_    |
   | **Codeforces** | [(Zero XOR Subset)-less](https://codeforces.com/problemset/problem/1101/G)            | _XOR Basis, Bitwise_ |
+
+### Lesson 77 (11.11.26)
+
+- Concepts:
+  
+  - Flow & Matching (continued): Dinic's Algorithm, Minimum Cut, Min-cost Flow.
+  - König's Theorem and Hall's Theorem.
+
+- Resources:
+  
+  - [Dinic's Algorithm - CP-Algorithms](https://cp-algorithms.com/graph/dinic.html)
+  - [Kuhn's Algorithm for Maximum Bipartite Matching - CP-Algorithms](https://cp-algorithms.com/graph/kuhn_maximum_bipartite_matching.html)
+  - [Minimum-cost flow - CP-Algorithms](https://cp-algorithms.com/graph/min_cost_flow.html)
+
+- Practice Problems:
+  
+  |       OJ       |                                 Name                                |      Categories     |
+  |:--------------:|:-------------------------------------------------------------------:|:-------------------:|
+  | **CSES**       | [Download Speed](https://cses.fi/problemset/task/1694)              | _Flow_              |
+  | **CSES**       | [Police Chase](https://cses.fi/problemset/task/1695)                | _Flow, Minimum Cut_ |
+  | **CSES**       | [School Dance](https://cses.fi/problemset/task/1696)                | _Matching_          |
+  | **CSES**       | [Distinct Routes](https://cses.fi/problemset/task/1711)             | _Flow_              |
+  | **Codeforces** | [Petya and Graph](https://codeforces.com/problemset/problem/1082/G) | _Flow, Minimum Cut_ |
 
 ---
 
