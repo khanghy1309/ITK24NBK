@@ -1560,7 +1560,28 @@ Register accounts on Online Judges:
   | **Codeforces** | [Bipartite Checking](https://codeforces.com/problemset/problem/813/F)           | _DSU Rollback, Offline Processing_     |
   | **Luogu**      | [P3810 Three-dimensional Partial Order](https://www.luogu.com.cn/problem/P3810) | _CDQ Divide and Conquer, Fenwick Tree_ |
 
-### Lesson 68 (11.01.27)
+### Lesson 68 (14.12.26)
+
+- Concepts:
+  
+  - Weighted DSU (DSU with Potentials).
+  - DSU with Parity (Bipartiteness Checking).
+
+- Resources:
+  
+  - [Disjoint Set Union: Applications - CP-Algorithms](https://cp-algorithms.com/data_structures/disjoint_set_union.html#applications-and-various-improvements)
+  - [Disjoint Set Union - VNOI Wiki](https://wiki.vnoi.info/algo/data-structures/disjoint-set-union.md)
+
+- Practice Problems:
+  
+  |       OJ       |                                     Name                                    |     Categories    |
+  |:--------------:|:---------------------------------------------------------------------------:|:-----------------:|
+  | **AtCoder**    | [People on a Line](https://atcoder.jp/contests/abc087/tasks/arc090_b)       | _Weighted DSU_    |
+  | **Codeforces** | [Mahmoud and a Dictionary](https://codeforces.com/problemset/problem/766/D) | _DSU with Parity_ |
+  | **Codeforces** | [The Number of Imposters](https://codeforces.com/problemset/problem/1594/D) | _DSU with Parity_ |
+  | **Luogu**      | [P2024 Food Chain](https://www.luogu.com.cn/problem/P2024)                  | _Weighted DSU_    |
+
+### Lesson 69 (11.01.27)
 
 - Concepts:
   
@@ -1583,7 +1604,7 @@ Register accounts on Online Judges:
   | **CSES**       | [Distinct Routes](https://cses.fi/problemset/task/1711)             | _Flow_              |
   | **Codeforces** | [Petya and Graph](https://codeforces.com/problemset/problem/1082/G) | _Flow, Minimum Cut_ |
 
-### Lesson 69 (01.02.27)
+### Lesson 70 (01.02.27)
 
 - Concepts:
   
@@ -1607,7 +1628,30 @@ Register accounts on Online Judges:
   | **CSES**       | [Substring Reversals](https://cses.fi/problemset/task/2073)           | _Implicit Treap_          |
   | **CSES**       | [Reversals and Sums](https://cses.fi/problemset/task/2074)            | _Implicit Treap_          |
 
-### Lesson 70 (15.02.27)
+### Lesson 71 (08.02.27)
+
+- Concepts:
+  
+  - Sweep Line with Segment Tree and Fenwick Tree.
+  - Area of Union of Rectangles.
+  - Counting Points in Rectangles (Offline).
+
+- Resources:
+  
+  - [Sweep Line - VNOI Wiki](https://wiki.vnoi.info/algo/geometry/Sweep-Line.md)
+  - [Sweep Line - USACO Guide](https://usaco.guide/plat/sweep-line?lang=cpp)
+
+- Practice Problems:
+  
+  |       OJ       |                                Name                               |         Categories         |
+  |:--------------:|:-----------------------------------------------------------------:|:--------------------------:|
+  | **CSES**       | [Intersection Points](https://cses.fi/problemset/task/1740)       | _Sweep Line, Fenwick Tree_ |
+  | **CSES**       | [Nested Ranges Count](https://cses.fi/problemset/task/2169)       | _Sweep Line, Fenwick Tree_ |
+  | **VNOJ**       | [area](https://oj.vnoi.info/problem/area)                         | _Sweep Line, Segment Tree_ |
+  | **CSES**       | [Area of Rectangles](https://cses.fi/problemset/task/1741)        | _Sweep Line, Segment Tree_ |
+  | **Codeforces** | [Divide Square](https://codeforces.com/problemset/problem/1401/E) | _Sweep Line, Fenwick Tree_ |
+
+### Lesson 72 (15.02.27)
 
 - Concepts:
   
@@ -1628,7 +1672,30 @@ Register accounts on Online Judges:
   | **Codeforces** | [Machine Learning](https://codeforces.com/problemset/problem/940/F)       | _Mo's Algorithm_      |
   | **SPOJ**       | [COT2](https://www.spoj.com/problems/COT2/)                               | _Mo's Algorithm, LCA_ |
 
-### Lesson 71 (01.03.27)
+### Lesson 73 (22.02.27)
+
+- Concepts:
+  
+  - SQRT Decomposition (continued): Heavy-Light Thresholds and Query Batching.
+  - Bitset Optimization.
+
+- Resources:
+  
+  - [Square Root Decomposition - USACO Guide](https://usaco.guide/plat/sqrt?lang=cpp)
+  - [Sqrt Decomposition - CP-Algorithms](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
+  - [Bitsets - USACO Guide](https://usaco.guide/plat/bitsets?lang=cpp)
+
+- Practice Problems:
+  
+  |       OJ       |                                  Name                                 |        Categories        |
+  |:--------------:|:---------------------------------------------------------------------:|:------------------------:|
+  | **Codeforces** | [Array Queries](https://codeforces.com/problemset/problem/797/E)      | _SQRT Decomposition, DP_ |
+  | **Codeforces** | [Remainder Problem](https://codeforces.com/problemset/problem/1207/F) | _SQRT Decomposition_     |
+  | **CSES**       | [School Excursion](https://cses.fi/problemset/task/1706)              | _Bitset, DP_             |
+  | **CSES**       | [Reachable Nodes](https://cses.fi/problemset/task/2138)               | _Bitset, DP on DAG_      |
+  | **CSES**       | [Reachability Queries](https://cses.fi/problemset/task/2143)          | _Bitset, Graphs_         |
+
+### Lesson 74 (01.03.27)
 
 - Concepts:
   
@@ -1650,7 +1717,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [e-Government](https://codeforces.com/problemset/problem/163/E)       | _Aho-Corasick, Fenwick Tree_     |
   | **Codeforces** | [String Set Queries](https://codeforces.com/problemset/problem/710/F) | _Aho-Corasick, Hashing_          |
 
-### Lesson 72 (15.03.27)
+### Lesson 75 (15.03.27)
 
 - Concepts:
   
@@ -1673,7 +1740,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [Kingdom and its Cities](https://codeforces.com/problemset/problem/613/D) | _Virtual Tree, DP_                 |
   | **Codeforces** | [Graph and Queries](https://codeforces.com/problemset/problem/1416/D)     | _DSU, Kruskal Reconstruction Tree_ |
 
-### Lesson 73 (05.04.27)
+### Lesson 76 (05.04.27)
 
 - Concepts:
   
@@ -1693,7 +1760,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [Yet Another Minimization Problem](https://codeforces.com/problemset/problem/868/F) | _DP, Divide and Conquer_       |
   | **Luogu**      | [P1880 Stone Merging](https://www.luogu.com.cn/problem/P1880)                       | _Range DP, Knuth Optimization_ |
 
-### Lesson 74 (19.04.27)
+### Lesson 77 (19.04.27)
 
 - Concepts:
   
