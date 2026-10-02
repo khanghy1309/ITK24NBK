@@ -1491,7 +1491,31 @@ Register accounts on Online Judges:
   | **CSES** | [Christmas Party](https://cses.fi/problemset/task/1717)      | _Combinatorics, DP_      |
   | **CSES** | [Bracket Sequences II](https://cses.fi/problemset/task/2187) | _Combinatorics, Catalan_ |
 
-### Lesson 65 (16.11.26)
+### Lesson 65 (09.11.26)
+
+- Concepts:
+  
+  - Lexicographic Order DP.
+  - Counting Configurations by Prefix.
+  - Finding the K-th Configuration and the Rank of a Configuration.
+
+- Resources:
+  
+  - [Combinatorics - USACO Guide](https://usaco.guide/gold/combo?lang=cpp)
+  - [Some Basic DP Problems - VNOI Wiki](https://wiki.vnoi.info/algo/dp/basic-problems.md)
+
+- Practice Problems:
+  
+  |       OJ       |                                    Name                                   |                 Categories                 |
+  |:--------------:|:-------------------------------------------------------------------------:|:------------------------------------------:|
+  | **VNOJ**       | [shhv](https://oj.vnoi.info/problem/shhv)                                 | _DP, Lexicographic Order_                  |
+  | **VNOJ**       | [shth](https://oj.vnoi.info/problem/shth)                                 | _Combinatorics, Lexicographic Order_       |
+  | **Codeforces** | [K-th Beautiful String](https://codeforces.com/problemset/problem/1328/B) | _Combinatorics, Lexicographic Order_       |
+  | **AtCoder**    | [aab aba baa](https://atcoder.jp/contests/abc202/tasks/abc202_d)          | _DP, Combinatorics, Lexicographic Order_   |
+  | **VNOJ**       | [voi19_aspal](https://oj.vnoi.info/problem/voi19_aspal)                   | _Bitmask DP, Lexicographic Order_          |
+  | **VNOJ**       | [voi25_encode](https://oj.vnoi.info/problem/voi25_encode)                 | _DP, Lexicographic Order, Data Structures_ |
+
+### Lesson 66 (16.11.26)
 
 - Concepts:
   
@@ -1515,7 +1539,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [Ilya and Escalator](https://codeforces.com/problemset/problem/518/D)       | _Expected Value, DP_                |
   | **Codeforces** | [Makoto and a Blackboard](https://codeforces.com/problemset/problem/1097/D) | _Expected Value, DP, Number Theory_ |
 
-### Lesson 66 (07.12.26)
+### Lesson 67 (07.12.26)
 
 - Concepts:
   
@@ -1536,7 +1560,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [Bipartite Checking](https://codeforces.com/problemset/problem/813/F)           | _DSU Rollback, Offline Processing_     |
   | **Luogu**      | [P3810 Three-dimensional Partial Order](https://www.luogu.com.cn/problem/P3810) | _CDQ Divide and Conquer, Fenwick Tree_ |
 
-### Lesson 67 (11.01.27)
+### Lesson 68 (11.01.27)
 
 - Concepts:
   
@@ -1559,7 +1583,7 @@ Register accounts on Online Judges:
   | **CSES**       | [Distinct Routes](https://cses.fi/problemset/task/1711)             | _Flow_              |
   | **Codeforces** | [Petya and Graph](https://codeforces.com/problemset/problem/1082/G) | _Flow, Minimum Cut_ |
 
-### Lesson 68 (01.02.27)
+### Lesson 69 (01.02.27)
 
 - Concepts:
   
@@ -1583,7 +1607,7 @@ Register accounts on Online Judges:
   | **CSES**       | [Substring Reversals](https://cses.fi/problemset/task/2073)           | _Implicit Treap_          |
   | **CSES**       | [Reversals and Sums](https://cses.fi/problemset/task/2074)            | _Implicit Treap_          |
 
-### Lesson 69 (15.02.27)
+### Lesson 70 (15.02.27)
 
 - Concepts:
   
@@ -1604,7 +1628,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [Machine Learning](https://codeforces.com/problemset/problem/940/F)       | _Mo's Algorithm_      |
   | **SPOJ**       | [COT2](https://www.spoj.com/problems/COT2/)                               | _Mo's Algorithm, LCA_ |
 
-### Lesson 70 (01.03.27)
+### Lesson 71 (01.03.27)
 
 - Concepts:
   
@@ -1626,7 +1650,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [e-Government](https://codeforces.com/problemset/problem/163/E)       | _Aho-Corasick, Fenwick Tree_     |
   | **Codeforces** | [String Set Queries](https://codeforces.com/problemset/problem/710/F) | _Aho-Corasick, Hashing_          |
 
-### Lesson 71 (15.03.27)
+### Lesson 72 (15.03.27)
 
 - Concepts:
   
@@ -1649,7 +1673,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [Kingdom and its Cities](https://codeforces.com/problemset/problem/613/D) | _Virtual Tree, DP_                 |
   | **Codeforces** | [Graph and Queries](https://codeforces.com/problemset/problem/1416/D)     | _DSU, Kruskal Reconstruction Tree_ |
 
-### Lesson 72 (05.04.27)
+### Lesson 73 (05.04.27)
 
 - Concepts:
   
@@ -1669,7 +1693,7 @@ Register accounts on Online Judges:
   | **Codeforces** | [Yet Another Minimization Problem](https://codeforces.com/problemset/problem/868/F) | _DP, Divide and Conquer_       |
   | **Luogu**      | [P1880 Stone Merging](https://www.luogu.com.cn/problem/P1880)                       | _Range DP, Knuth Optimization_ |
 
-### Lesson 73 (19.04.27)
+### Lesson 74 (19.04.27)
 
 - Concepts:
   
