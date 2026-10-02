@@ -1501,8 +1501,7 @@ Register accounts on Online Judges:
 
 - Resources:
   
-  - [Combinatorics - USACO Guide](https://usaco.guide/gold/combo?lang=cpp)
-  - [Some Basic DP Problems - VNOI Wiki](https://wiki.vnoi.info/algo/dp/basic-problems.md)
+  - [Balanced Bracket Sequences: Sequence Index and Finding the K-th Sequence - CP-Algorithms](https://cp-algorithms.com/combinatorics/bracket_sequences.html)
 
 - Practice Problems:
   
