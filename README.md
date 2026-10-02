@@ -1482,6 +1482,7 @@ Register accounts on Online Judges:
   
   - [Catalan Numbers - CP-Algorithms](https://cp-algorithms.com/combinatorics/catalan-numbers.html)
   - [Inclusion-Exclusion Principle - CP-Algorithms](https://cp-algorithms.com/combinatorics/inclusion-exclusion.html)
+  - [Stirling Numbers - OI Wiki](https://oi-wiki.org/math/combinatorics/stirling/)
 
 - Practice Problems:
   
@@ -1525,6 +1526,8 @@ Register accounts on Online Judges:
 - Resources:
   
   - [Probabilities - VNOI Wiki](https://wiki.vnoi.info/translate/he/Number-Theory-6.md)
+  - [Sums and Expected Value, part 1 - Codeforces Blog](https://codeforces.com/blog/entry/62690)
+  - [Sums and Expected Value, part 2 - Codeforces Blog](https://codeforces.com/blog/entry/62792)
 
 - Practice Problems:
   
@@ -1570,7 +1573,8 @@ Register accounts on Online Judges:
 - Resources:
   
   - [Sweep Line - VNOI Wiki](https://wiki.vnoi.info/algo/geometry/Sweep-Line.md)
-  - [Sweep Line - USACO Guide](https://usaco.guide/plat/sweep-line?lang=cpp)
+  - [Range Queries with Sweep Line - USACO Guide](https://usaco.guide/plat/range-sweep?lang=cpp)
+  - [Sweep Line: Area of Union of Rectangles - OI Wiki](https://oi-wiki.org/geometry/scanning/)
 
 - Practice Problems:
   
@@ -1617,6 +1621,7 @@ Register accounts on Online Judges:
   
   - [DP on Trees - Solving For All Roots - USACO Guide](https://usaco.guide/gold/all-roots?lang=cpp)
   - [Virtual Tree - OI Wiki](https://oi-wiki.org/graph/virtual-tree/)
+  - [Kruskal Reconstruction Tree - OI Wiki](https://oi-wiki.org/graph/mst/)
 
 - Practice Problems:
   
@@ -1638,6 +1643,7 @@ Register accounts on Online Judges:
 
 - Resources:
   
+  - [Trie - VNOI Wiki](https://wiki.vnoi.info/algo/string/trie)
   - [Persistent Segment Tree - CP-Algorithms](https://cp-algorithms.com/data_structures/segment_tree.html#persistent-segment-tree)
   - [Treap - CP-Algorithms](https://cp-algorithms.com/data_structures/treap.html)
 
@@ -1726,6 +1732,7 @@ Register accounts on Online Judges:
 - Resources:
   
   - [A simple introduction to "Segment tree beats" - Codeforces Blog](https://codeforces.com/blog/entry/57319)
+  - [Mo's Algorithm with Modifications - OI Wiki](https://oi-wiki.org/misc/modifiable-mo-algo/)
   - [Mo's Algorithm on Trees [Tutorial] - Codeforces Blog](https://codeforces.com/blog/entry/43230)
 
 - Practice Problems:
@@ -1767,6 +1774,7 @@ Register accounts on Online Judges:
   - [Dinic's Algorithm - CP-Algorithms](https://cp-algorithms.com/graph/dinic.html)
   - [Kuhn's Algorithm for Maximum Bipartite Matching - CP-Algorithms](https://cp-algorithms.com/graph/kuhn_maximum_bipartite_matching.html)
   - [Minimum-cost flow - CP-Algorithms](https://cp-algorithms.com/graph/min_cost_flow.html)
+  - [Minimum Cut - USACO Guide](https://usaco.guide/adv/min-cut?lang=cpp)
 
 - Practice Problems:
   
